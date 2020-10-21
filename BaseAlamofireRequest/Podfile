@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'BaseAlamofireRequest' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for BaseAlamofireRequest
+	pod 'Alamofire', '~> 4.9'
+	pod 'SwiftyJSON', '~> 3.1.4'
+	pod 'KVLoading', '~> 1.5'
+	pod 'MarqueeLabel/Swift', '~> 3.1.4'
+
+
+  target 'BaseAlamofireRequestTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'BaseAlamofireRequestUITests' do
+    # Pods for testing
+  end
+
+end

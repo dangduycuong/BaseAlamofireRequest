@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - KVLoading (1.9)
+  - MarqueeLabel/Swift (3.1.6)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9)
+  - KVLoading (~> 1.5)
+  - MarqueeLabel/Swift (~> 3.1.4)
+  - SwiftyJSON (~> 3.1.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KVLoading
+    - MarqueeLabel
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  KVLoading: ee22535e4ee4c6ad1ab4272b9e3c283453a9821d
+  MarqueeLabel: 0c41f08ef5773e29c0f71064a8fa788a2fd8b365
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: aae0f2feaf525ddc2a63d40909127351db38a9ec
+
+COCOAPODS: 1.9.3
